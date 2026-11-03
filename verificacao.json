@@ -1,0 +1,33 @@
+[
+  {
+    "id": "geometria",
+    "label": "Geometria",
+    "parts": [
+      "dados/geometria-1.gz.part"
+    ],
+    "bytes": 1510317,
+    "sha256": "5d472d8d99dbc64d95d292507f09377f4081a2e6cf6d4fe746969f10527bef89"
+  },
+  {
+    "id": "fukui",
+    "label": "Fukui",
+    "parts": [
+      "dados/fukui-1.gz.part"
+    ],
+    "bytes": 181558,
+    "sha256": "651bb5652cb34e90716a803abb0203a3aa9231ed0a60e42bc249c13b165b3890"
+  },
+  {
+    "id": "mep",
+    "label": "MEP",
+    "parts": [
+      "dados/mep-1.gz.part",
+      "dados/mep-2.gz.part",
+      "dados/mep-3.gz.part",
+      "dados/mep-4.gz.part",
+      "dados/mep-5.gz.part"
+    ],
+    "bytes": 19820417,
+    "sha256": "83a5ef7b3dab002c62a7e63a4b5a9a72e0cee15257119d259cf1855352b09202"
+  }
+]
